@@ -1,0 +1,6 @@
+[submodule "weather-api-spring-boot"]
+	path = weather-api-spring-boot
+	url = git@github.com:abdelmottalib/weather-api-spring-boot.git
+[submodule "movie-api"]
+	path = movie-api
+	url = git@github.com:abdelmottalib/movie-api
